@@ -105,7 +105,7 @@ Implmented extractor modules to handles various input sources (URL, pdf, docx, t
 To use the docker image run:
 ```
 docker pull mohankrishnagr/infosys_text-summarization:final
-docker run -p 8000:8000 mohankrishnagr/infosys_text-summarization:final
+docker run -p 8000:8000 nishu/infosys_text-summarization:final
 ```
 Then checkout at,
 ```
@@ -124,7 +124,7 @@ http://20.219.203.134:8000/
 ```
 FQDN
 ```
-http://mohankrishnagr.centralindia.azurecontainer.io:8000/
+http://nishur.centralindia.azurecontainer.io:8000/
 ```
 ## Extractive Summarization Model 
 Implemented rule-based approach.
